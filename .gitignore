@@ -1,0 +1,13 @@
+
+.idea
+*.iml
+out/
+target/
+git-log.sh
+
+# files from haarp init that should not be checked in
+/.build_tmp
+/build-docker-image
+/docker-compose.yml
+/version.txt
+# haarp files end
